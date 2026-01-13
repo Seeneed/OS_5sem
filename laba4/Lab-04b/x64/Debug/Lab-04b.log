@@ -1,0 +1,4 @@
+﻿  Lab-04b.cpp
+D:\Уник\ОС\laba4\Lab-04b\Lab-04b.cpp(11,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Уник\ОС\laba4\Lab-04b\Lab-04b.cpp(39,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab-04b.vcxproj -> D:\Уник\ОС\laba4\x64\Debug\Lab-04b.exe

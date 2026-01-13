@@ -1,0 +1,10 @@
+﻿  Lab-09c.cpp
+D:\Уник\ОС\laba9\Lab-09c\Lab-09c.cpp(1,9): warning C4005: UNICODE: изменение макроопределения
+      D:\Уник\ОС\laba9\Lab-09c\Lab-09c.cpp(1,9):
+      "UNICODE" ранее объявлен в командной строке
+  
+D:\Уник\ОС\laba9\Lab-09c\Lab-09c.cpp(2,9): warning C4005: _UNICODE: изменение макроопределения
+      D:\Уник\ОС\laba9\Lab-09c\Lab-09c.cpp(2,9):
+      "_UNICODE" ранее объявлен в командной строке
+  
+  Lab-09c.vcxproj -> D:\Уник\ОС\laba9\x64\Debug\Lab-09c.exe

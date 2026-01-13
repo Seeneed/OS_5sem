@@ -1,0 +1,15 @@
+﻿  Lab-09c.cpp
+D:\Уник\ОС\laba9\Lab-09c\Lab-09c.cpp(1,9): warning C4005: UNICODE: изменение макроопределения
+      D:\Уник\ОС\laba9\Lab-09c\Lab-09c.cpp(1,9):
+      "UNICODE" ранее объявлен в командной строке
+  
+D:\Уник\ОС\laba9\Lab-09c\Lab-09c.cpp(2,9): warning C4005: _UNICODE: изменение макроопределения
+      D:\Уник\ОС\laba9\Lab-09c\Lab-09c.cpp(2,9):
+      "_UNICODE" ранее объявлен в командной строке
+  
+  Создание кода
+  80 of 217 functions (36.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Lab-09c.vcxproj -> D:\Уник\ОС\laba9\x64\Release\Lab-09c.exe
